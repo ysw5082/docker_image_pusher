@@ -1,1 +1,1 @@
-scrcpy
+scrcpy_1.24.deb

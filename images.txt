@@ -1,1 +1,1 @@
-runlike
+docker-android:emulator_14.0
